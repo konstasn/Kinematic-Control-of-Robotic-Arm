@@ -21,6 +21,10 @@ This project demonstrates the kinematic control of a 6-degree-of-freedom UR10e r
 - **Part A:** Successful tracking of the moving sphere, achieving the desired position and orientation.
 - **Part B:** Accurate approach and capture of the sphere with the robotic arm, ensuring safe operation within speed and acceleration limits.
 
+## Report
+
+For a detailed explanation of the project's objectives, methods, and results, please refer to the [full project report](Report.pdf).
+
 ## Technologies Used
 
 - **Languages:** MATLAB  
